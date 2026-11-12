@@ -4,20 +4,25 @@
       "latest": "0.5.0",
       "versions": {
         "0.5.0": {
-          "commit": "1ce9afe",
+          "commit": "30f15ca",
           "platforms": {
+            "arm64-macos": {
+              "artifact": "clients/v0.5.0/provedorx-clients-v0.5.0-arm64-macos",
+              "manifest": "clients/v0.5.0/manifest-arm64-macos.json",
+              "sha256": "a391cde598cf65251c1f0f95093dbddec5d6de59926cb6563db163c4a35b15a7"
+            },
             "macos-arm64": {
               "artifact": "clients/v0.5.0/provedorx-clients-macos-arm64",
               "manifest": "clients/v0.5.0/manifest.json",
               "sha256": "a391cde598cf65251c1f0f95093dbddec5d6de59926cb6563db163c4a35b15a7"
             }
           },
-          "published_at": "2026-11-12T16:31:45Z",
+          "published_at": "2026-11-12T16:37:13Z",
           "tag": "clients/v0.5.0"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-12T16:31:45Z"
+  "updated_at": "2026-11-12T16:37:13Z"
 }

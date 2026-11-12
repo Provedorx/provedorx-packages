@@ -1,0 +1,25 @@
+{
+  "service": "clients",
+  "version": "0.5.0",
+  "tag": "clients/v0.5.0",
+  "commit": "30f15ca",
+  "build_time": "2026-11-12T16:37:13Z",
+  "published_at": "2026-11-12T16:37:13Z",
+  "schema_version": "1",
+  "capabilities": [
+    "panel.clients",
+    "clients.read",
+    "clients.write"
+  ],
+  "depends_on": [
+    "gateway"
+  ],
+  "assets": [
+    {
+      "platform": "arm64-macos",
+      "name": "provedorx-clients-v0.5.0-arm64-macos",
+      "sha256": "a391cde598cf65251c1f0f95093dbddec5d6de59926cb6563db163c4a35b15a7"
+    }
+  ],
+  "min_gateway_version": "0.2.6"
+}
