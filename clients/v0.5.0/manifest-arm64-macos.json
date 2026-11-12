@@ -3,8 +3,8 @@
   "version": "0.5.0",
   "tag": "clients/v0.5.0",
   "commit": "30f15ca",
-  "build_time": "2026-11-12T16:38:59Z",
-  "published_at": "2026-11-12T16:38:59Z",
+  "build_time": "2026-11-12T16:42:20Z",
+  "published_at": "2026-11-12T16:42:20Z",
   "schema_version": "1",
   "capabilities": [
     "panel.clients",
