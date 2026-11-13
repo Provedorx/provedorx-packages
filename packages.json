@@ -27,14 +27,19 @@
               "artifact": "provedorx-clients-v0.6.0-arm64-linux",
               "manifest": "manifest-arm64-linux.json",
               "sha256": "6e55ed3c2e19b2d1727f285f5f5bc3132383c38950f27d8c6e8ae72512709e01"
+            },
+            "arm64-macos": {
+              "artifact": "provedorx-clients-v0.6.0-arm64-macos",
+              "manifest": "manifest-arm64-macos.json",
+              "sha256": "06e923b1f3d052cdf177ed106e720c4e615b6b8aea3c63330b55f26e88211937"
             }
           },
-          "published_at": "2026-11-13T00:04:06Z",
+          "published_at": "2026-11-13T00:04:21Z",
           "tag": "clients/v0.6.0"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T00:04:06Z"
+  "updated_at": "2026-11-13T00:04:21Z"
 }
