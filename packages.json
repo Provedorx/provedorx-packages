@@ -49,14 +49,19 @@
               "artifact": "provedorx-contracts-v0.1.0-arm64-linux",
               "manifest": "manifest-arm64-linux.json",
               "sha256": "1367453455d39e8fa9ada93101c95e117a0b6751b2fc5afdce980b356fffb285"
+            },
+            "arm64-macos": {
+              "artifact": "provedorx-contracts-v0.1.0-arm64-macos",
+              "manifest": "manifest-arm64-macos.json",
+              "sha256": "ce9550b68e3974090f6c362e140347b1655f751b3d571f65775c649c305b83ed"
             }
           },
-          "published_at": "2026-11-13T01:11:45Z",
+          "published_at": "2026-11-13T01:11:59Z",
           "tag": "contracts/v0.1.0"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-13T01:11:45Z"
+  "updated_at": "2026-11-13T01:11:59Z"
 }
