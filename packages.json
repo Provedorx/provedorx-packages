@@ -4,7 +4,7 @@
       "latest": "0.1.0",
       "versions": {
         "0.1.0": {
-          "commit": "1ca1e06",
+          "commit": "614e62d",
           "platforms": {
             "arm64-linux": {
               "artifact": "provedorx-agents-v0.1.0-arm64-linux",
@@ -17,8 +17,8 @@
               "sha256": "a81866d74838e8d1302a253df8504cd9d3c74c1f159b914710a7d40c44bdc93b"
             }
           },
-          "published_at": "2026-11-15T17:17:46Z",
-          "tag": "release-2026.11.15-1ca1e06"
+          "published_at": "2026-11-15T19:19:34Z",
+          "tag": "release-2026.11.15-614e62d"
         }
       }
     },
@@ -43,7 +43,7 @@
           "tag": "clients/v0.5.0"
         },
         "0.6.0": {
-          "commit": "1ca1e06",
+          "commit": "614e62d",
           "platforms": {
             "arm64-linux": {
               "artifact": "provedorx-clients-v0.6.0-arm64-linux",
@@ -56,8 +56,8 @@
               "sha256": "06e923b1f3d052cdf177ed106e720c4e615b6b8aea3c63330b55f26e88211937"
             }
           },
-          "published_at": "2026-11-15T17:17:46Z",
-          "tag": "release-2026.11.15-1ca1e06"
+          "published_at": "2026-11-15T19:19:34Z",
+          "tag": "release-2026.11.15-614e62d"
         }
       }
     },
@@ -82,7 +82,7 @@
           "tag": "contracts/v0.1.0"
         },
         "0.3.0": {
-          "commit": "1ca1e06",
+          "commit": "614e62d",
           "platforms": {
             "arm64-linux": {
               "artifact": "provedorx-contracts-v0.3.0-arm64-linux",
@@ -95,12 +95,12 @@
               "sha256": "a40def896c07b3e9fa723066d8e8b8a8f49a227357cdf35a137677c0ec54c0e0"
             }
           },
-          "published_at": "2026-11-15T17:17:46Z",
-          "tag": "release-2026.11.15-1ca1e06"
+          "published_at": "2026-11-15T19:19:34Z",
+          "tag": "release-2026.11.15-614e62d"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-15T17:17:46Z"
+  "updated_at": "2026-11-15T19:19:34Z"
 }
