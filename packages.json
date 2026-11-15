@@ -77,7 +77,7 @@
           "tag": "contracts/v0.1.0"
         },
         "0.3.0": {
-          "commit": "957f220e",
+          "commit": "265b8c07",
           "platforms": {
             "arm64-linux": {
               "artifact": "provedorx-contracts-v0.3.0-arm64-linux",
@@ -90,12 +90,12 @@
               "sha256": "a40def896c07b3e9fa723066d8e8b8a8f49a227357cdf35a137677c0ec54c0e0"
             }
           },
-          "published_at": "2026-11-15T17:05:03Z",
+          "published_at": "2026-11-15T17:05:46Z",
           "tag": "contracts/v0.3.0"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-15T17:05:33Z"
+  "updated_at": "2026-11-15T17:05:46Z"
 }
