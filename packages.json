@@ -40,7 +40,7 @@
       }
     },
     "contracts": {
-      "latest": "0.1.0",
+      "latest": "0.3.0",
       "versions": {
         "0.1.0": {
           "commit": "6cfce9d",
@@ -58,10 +58,22 @@
           },
           "published_at": "2026-11-13T01:11:59Z",
           "tag": "contracts/v0.1.0"
+        },
+        "0.3.0": {
+          "commit": "957f220e",
+          "platforms": {
+            "arm64-linux": {
+              "artifact": "provedorx-contracts-v0.3.0-arm64-linux",
+              "manifest": "manifest-arm64-linux.json",
+              "sha256": "1367453455d39e8fa9ada93101c95e117a0b6751b2fc5afdce980b356fffb285"
+            }
+          },
+          "published_at": "2026-11-15T17:05:00Z",
+          "tag": "contracts/v0.3.0"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-15T17:04:58Z"
+  "updated_at": "2026-11-15T17:05:00Z"
 }
