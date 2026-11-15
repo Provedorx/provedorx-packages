@@ -1,5 +1,22 @@
 {
   "packages": {
+    "agents": {
+      "latest": "0.1.0",
+      "versions": {
+        "0.1.0": {
+          "commit": "957f220e",
+          "platforms": {
+            "arm64-macos": {
+              "artifact": "provedorx-agents-v0.1.0-arm64-macos",
+              "manifest": "manifest-arm64-macos.json",
+              "sha256": "a81866d74838e8d1302a253df8504cd9d3c74c1f159b914710a7d40c44bdc93b"
+            }
+          },
+          "published_at": "2026-11-15T17:05:05Z",
+          "tag": "agents/v0.1.0"
+        }
+      }
+    },
     "clients": {
       "latest": "0.6.0",
       "versions": {
@@ -80,5 +97,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-15T17:05:03Z"
+  "updated_at": "2026-11-15T17:05:05Z"
 }
