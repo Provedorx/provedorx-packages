@@ -38,7 +38,7 @@
           "tag": "clients/v0.5.0"
         },
         "0.6.0": {
-          "commit": "957f220e",
+          "commit": "265b8c07",
           "platforms": {
             "arm64-linux": {
               "artifact": "provedorx-clients-v0.6.0-arm64-linux",
@@ -51,7 +51,7 @@
               "sha256": "06e923b1f3d052cdf177ed106e720c4e615b6b8aea3c63330b55f26e88211937"
             }
           },
-          "published_at": "2026-11-15T17:05:01Z",
+          "published_at": "2026-11-15T17:05:33Z",
           "tag": "clients/v0.6.0"
         }
       }
@@ -97,5 +97,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-15T17:05:05Z"
+  "updated_at": "2026-11-15T17:05:33Z"
 }
