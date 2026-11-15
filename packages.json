@@ -90,12 +90,12 @@
               "sha256": "a40def896c07b3e9fa723066d8e8b8a8f49a227357cdf35a137677c0ec54c0e0"
             }
           },
-          "published_at": "2026-11-15T17:05:46Z",
+          "published_at": "2026-11-15T17:06:10Z",
           "tag": "contracts/v0.3.0"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-15T17:05:58Z"
+  "updated_at": "2026-11-15T17:06:10Z"
 }
