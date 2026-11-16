@@ -21,7 +21,7 @@
           "tag": "release-2026.11.15-614e62d"
         },
         "0.2.0": {
-          "commit": "d1ae050",
+          "commit": "be56a14",
           "platforms": {
             "arm64-linux": {
               "artifact": "provedorx-agents-v0.2.0-arm64-linux",
@@ -34,7 +34,7 @@
                     "sha256": "9be2904828ce4195a2513cfdf751e01f4d72c61ecd5bb7f9151b2d3f9492c294"
                   }
                 ],
-                "build_time": "2026-11-16T02:11:24Z",
+                "build_time": "2026-11-16T02:36:12Z",
                 "capabilities": [
                   "panel.agents",
                   "agents.chat",
@@ -42,17 +42,17 @@
                   "agents.support",
                   "bot.agent"
                 ],
-                "commit": "d1ae0506",
+                "commit": "be56a140",
                 "depends_on": [
                   "gateway",
                   "clients",
                   "contracts"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-16T02:11:24Z",
+                "published_at": "2026-11-16T02:36:12Z",
                 "schema_version": "1",
                 "service": "agents",
-                "tag": "release-2026.11.16-d1ae050",
+                "tag": "release-2026.11.16-be56a14",
                 "version": "0.2.0"
               },
               "sha256": "9be2904828ce4195a2513cfdf751e01f4d72c61ecd5bb7f9151b2d3f9492c294"
@@ -68,7 +68,7 @@
                     "sha256": "a81866d74838e8d1302a253df8504cd9d3c74c1f159b914710a7d40c44bdc93b"
                   }
                 ],
-                "build_time": "2026-11-16T02:11:24Z",
+                "build_time": "2026-11-16T02:36:12Z",
                 "capabilities": [
                   "panel.agents",
                   "agents.chat",
@@ -76,24 +76,24 @@
                   "agents.support",
                   "bot.agent"
                 ],
-                "commit": "d1ae0506",
+                "commit": "be56a140",
                 "depends_on": [
                   "gateway",
                   "clients",
                   "contracts"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-16T02:11:24Z",
+                "published_at": "2026-11-16T02:36:12Z",
                 "schema_version": "1",
                 "service": "agents",
-                "tag": "release-2026.11.16-d1ae050",
+                "tag": "release-2026.11.16-be56a14",
                 "version": "0.2.0"
               },
               "sha256": "a81866d74838e8d1302a253df8504cd9d3c74c1f159b914710a7d40c44bdc93b"
             }
           },
-          "published_at": "2026-11-16T02:11:26Z",
-          "tag": "release-2026.11.16-d1ae050"
+          "published_at": "2026-11-16T02:36:13Z",
+          "tag": "release-2026.11.16-be56a14"
         }
       }
     },
@@ -118,7 +118,7 @@
           "tag": "clients/v0.5.0"
         },
         "0.6.0": {
-          "commit": "d1ae050",
+          "commit": "be56a14",
           "platforms": {
             "arm64-linux": {
               "artifact": "provedorx-clients-v0.6.0-arm64-linux",
@@ -131,21 +131,21 @@
                     "sha256": "6e55ed3c2e19b2d1727f285f5f5bc3132383c38950f27d8c6e8ae72512709e01"
                   }
                 ],
-                "build_time": "2026-11-16T02:11:24Z",
+                "build_time": "2026-11-16T02:36:12Z",
                 "capabilities": [
                   "panel.clients",
                   "clients.read",
                   "clients.write"
                 ],
-                "commit": "d1ae0506",
+                "commit": "be56a140",
                 "depends_on": [
                   "gateway"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-16T02:11:24Z",
+                "published_at": "2026-11-16T02:36:12Z",
                 "schema_version": "1",
                 "service": "clients",
-                "tag": "release-2026.11.16-d1ae050",
+                "tag": "release-2026.11.16-be56a14",
                 "version": "0.6.0"
               },
               "sha256": "6e55ed3c2e19b2d1727f285f5f5bc3132383c38950f27d8c6e8ae72512709e01"
@@ -161,28 +161,28 @@
                     "sha256": "06e923b1f3d052cdf177ed106e720c4e615b6b8aea3c63330b55f26e88211937"
                   }
                 ],
-                "build_time": "2026-11-16T02:11:24Z",
+                "build_time": "2026-11-16T02:36:12Z",
                 "capabilities": [
                   "panel.clients",
                   "clients.read",
                   "clients.write"
                 ],
-                "commit": "d1ae0506",
+                "commit": "be56a140",
                 "depends_on": [
                   "gateway"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-16T02:11:24Z",
+                "published_at": "2026-11-16T02:36:12Z",
                 "schema_version": "1",
                 "service": "clients",
-                "tag": "release-2026.11.16-d1ae050",
+                "tag": "release-2026.11.16-be56a14",
                 "version": "0.6.0"
               },
               "sha256": "06e923b1f3d052cdf177ed106e720c4e615b6b8aea3c63330b55f26e88211937"
             }
           },
-          "published_at": "2026-11-16T02:11:26Z",
-          "tag": "release-2026.11.16-d1ae050"
+          "published_at": "2026-11-16T02:36:13Z",
+          "tag": "release-2026.11.16-be56a14"
         }
       }
     },
@@ -207,7 +207,7 @@
           "tag": "contracts/v0.1.0"
         },
         "0.3.0": {
-          "commit": "d1ae050",
+          "commit": "be56a14",
           "platforms": {
             "arm64-linux": {
               "artifact": "provedorx-contracts-v0.3.0-arm64-linux",
@@ -220,21 +220,21 @@
                     "sha256": "1367453455d39e8fa9ada93101c95e117a0b6751b2fc5afdce980b356fffb285"
                   }
                 ],
-                "build_time": "2026-11-16T02:11:24Z",
+                "build_time": "2026-11-16T02:36:12Z",
                 "capabilities": [
                   "panel.contracts",
                   "contracts.read"
                 ],
-                "commit": "d1ae0506",
+                "commit": "be56a140",
                 "depends_on": [
                   "gateway",
                   "clients"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-16T02:11:24Z",
+                "published_at": "2026-11-16T02:36:12Z",
                 "schema_version": "1",
                 "service": "contracts",
-                "tag": "release-2026.11.16-d1ae050",
+                "tag": "release-2026.11.16-be56a14",
                 "version": "0.3.0"
               },
               "sha256": "1367453455d39e8fa9ada93101c95e117a0b6751b2fc5afdce980b356fffb285"
@@ -250,32 +250,32 @@
                     "sha256": "a40def896c07b3e9fa723066d8e8b8a8f49a227357cdf35a137677c0ec54c0e0"
                   }
                 ],
-                "build_time": "2026-11-16T02:11:24Z",
+                "build_time": "2026-11-16T02:36:12Z",
                 "capabilities": [
                   "panel.contracts",
                   "contracts.read"
                 ],
-                "commit": "d1ae0506",
+                "commit": "be56a140",
                 "depends_on": [
                   "gateway",
                   "clients"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-16T02:11:24Z",
+                "published_at": "2026-11-16T02:36:12Z",
                 "schema_version": "1",
                 "service": "contracts",
-                "tag": "release-2026.11.16-d1ae050",
+                "tag": "release-2026.11.16-be56a14",
                 "version": "0.3.0"
               },
               "sha256": "a40def896c07b3e9fa723066d8e8b8a8f49a227357cdf35a137677c0ec54c0e0"
             }
           },
-          "published_at": "2026-11-16T02:11:26Z",
-          "tag": "release-2026.11.16-d1ae050"
+          "published_at": "2026-11-16T02:36:13Z",
+          "tag": "release-2026.11.16-be56a14"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-16T02:11:26Z"
+  "updated_at": "2026-11-16T02:36:13Z"
 }
