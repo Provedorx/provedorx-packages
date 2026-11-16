@@ -34,7 +34,7 @@
                     "sha256": "9be2904828ce4195a2513cfdf751e01f4d72c61ecd5bb7f9151b2d3f9492c294"
                   }
                 ],
-                "build_time": "2026-11-16T04:12:11Z",
+                "build_time": "2026-11-16T04:12:48Z",
                 "capabilities": [
                   "panel.agents",
                   "agents.chat",
@@ -49,7 +49,7 @@
                   "contracts"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-16T04:12:11Z",
+                "published_at": "2026-11-16T04:12:48Z",
                 "schema_version": "1",
                 "service": "agents",
                 "tag": "release-2026.11.16-3adb0eb",
@@ -68,7 +68,7 @@
                     "sha256": "a81866d74838e8d1302a253df8504cd9d3c74c1f159b914710a7d40c44bdc93b"
                   }
                 ],
-                "build_time": "2026-11-16T04:12:11Z",
+                "build_time": "2026-11-16T04:12:48Z",
                 "capabilities": [
                   "panel.agents",
                   "agents.chat",
@@ -83,7 +83,7 @@
                   "contracts"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-16T04:12:11Z",
+                "published_at": "2026-11-16T04:12:48Z",
                 "schema_version": "1",
                 "service": "agents",
                 "tag": "release-2026.11.16-3adb0eb",
@@ -92,7 +92,7 @@
               "sha256": "a81866d74838e8d1302a253df8504cd9d3c74c1f159b914710a7d40c44bdc93b"
             }
           },
-          "published_at": "2026-11-16T04:12:12Z",
+          "published_at": "2026-11-16T04:12:50Z",
           "tag": "release-2026.11.16-3adb0eb"
         }
       }
@@ -131,7 +131,7 @@
                     "sha256": "6e55ed3c2e19b2d1727f285f5f5bc3132383c38950f27d8c6e8ae72512709e01"
                   }
                 ],
-                "build_time": "2026-11-16T04:12:10Z",
+                "build_time": "2026-11-16T04:12:48Z",
                 "capabilities": [
                   "panel.clients",
                   "clients.read",
@@ -142,7 +142,7 @@
                   "gateway"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-16T04:12:10Z",
+                "published_at": "2026-11-16T04:12:48Z",
                 "schema_version": "1",
                 "service": "clients",
                 "tag": "release-2026.11.16-3adb0eb",
@@ -161,7 +161,7 @@
                     "sha256": "06e923b1f3d052cdf177ed106e720c4e615b6b8aea3c63330b55f26e88211937"
                   }
                 ],
-                "build_time": "2026-11-16T04:12:11Z",
+                "build_time": "2026-11-16T04:12:48Z",
                 "capabilities": [
                   "panel.clients",
                   "clients.read",
@@ -172,7 +172,7 @@
                   "gateway"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-16T04:12:11Z",
+                "published_at": "2026-11-16T04:12:48Z",
                 "schema_version": "1",
                 "service": "clients",
                 "tag": "release-2026.11.16-3adb0eb",
@@ -181,7 +181,7 @@
               "sha256": "06e923b1f3d052cdf177ed106e720c4e615b6b8aea3c63330b55f26e88211937"
             }
           },
-          "published_at": "2026-11-16T04:12:12Z",
+          "published_at": "2026-11-16T04:12:50Z",
           "tag": "release-2026.11.16-3adb0eb"
         }
       }
@@ -220,7 +220,7 @@
                     "sha256": "1367453455d39e8fa9ada93101c95e117a0b6751b2fc5afdce980b356fffb285"
                   }
                 ],
-                "build_time": "2026-11-16T04:12:11Z",
+                "build_time": "2026-11-16T04:12:48Z",
                 "capabilities": [
                   "panel.contracts",
                   "contracts.read"
@@ -231,7 +231,7 @@
                   "clients"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-16T04:12:11Z",
+                "published_at": "2026-11-16T04:12:48Z",
                 "schema_version": "1",
                 "service": "contracts",
                 "tag": "release-2026.11.16-3adb0eb",
@@ -250,7 +250,7 @@
                     "sha256": "a40def896c07b3e9fa723066d8e8b8a8f49a227357cdf35a137677c0ec54c0e0"
                   }
                 ],
-                "build_time": "2026-11-16T04:12:11Z",
+                "build_time": "2026-11-16T04:12:48Z",
                 "capabilities": [
                   "panel.contracts",
                   "contracts.read"
@@ -261,7 +261,7 @@
                   "clients"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-16T04:12:11Z",
+                "published_at": "2026-11-16T04:12:48Z",
                 "schema_version": "1",
                 "service": "contracts",
                 "tag": "release-2026.11.16-3adb0eb",
@@ -270,12 +270,12 @@
               "sha256": "a40def896c07b3e9fa723066d8e8b8a8f49a227357cdf35a137677c0ec54c0e0"
             }
           },
-          "published_at": "2026-11-16T04:12:12Z",
+          "published_at": "2026-11-16T04:12:50Z",
           "tag": "release-2026.11.16-3adb0eb"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-16T04:12:12Z"
+  "updated_at": "2026-11-16T04:12:50Z"
 }
