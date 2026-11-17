@@ -281,6 +281,36 @@
         "0.1.0": {
           "commit": "03ac4a8",
           "platforms": {
+            "arm64-linux": {
+              "artifact": "provedorx-tracking-v0.1.0-arm64-linux",
+              "manifest": "manifest-tracking-arm64-linux.json",
+              "manifest_data": {
+                "assets": [
+                  {
+                    "name": "provedorx-tracking-v0.1.0-arm64-linux",
+                    "platform": "arm64-linux",
+                    "sha256": "de6991ef0e9c0d5f0f471b105dadeddb301e14d168e6d46b3982ff7d46ff26fe"
+                  }
+                ],
+                "build_time": "2026-11-17T13:37:15Z",
+                "capabilities": [
+                  "panel.tracking",
+                  "tracking.read",
+                  "tracking.write"
+                ],
+                "commit": "7285eb0b",
+                "depends_on": [
+                  "gateway"
+                ],
+                "min_gateway_version": "0.2.6",
+                "published_at": "2026-11-17T13:37:15Z",
+                "schema_version": "1",
+                "service": "tracking",
+                "tag": "release-2026.11.17-03ac4a8",
+                "version": "0.1.0"
+              },
+              "sha256": "de6991ef0e9c0d5f0f471b105dadeddb301e14d168e6d46b3982ff7d46ff26fe"
+            },
             "arm64-macos": {
               "artifact": "provedorx-tracking-v0.1.0-arm64-macos",
               "manifest": "manifest-tracking-arm64-macos.json",
@@ -319,5 +349,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-17T13:05:56Z"
+  "updated_at": "2026-11-17T13:37:15Z"
 }
