@@ -276,7 +276,7 @@
       }
     },
     "tracking": {
-      "latest": "0.1.0",
+      "latest": "0.2.0",
       "versions": {
         "0.1.0": {
           "commit": "03ac4a8",
@@ -344,10 +344,22 @@
           },
           "published_at": "2026-11-17T13:05:56Z",
           "tag": "release-2026.11.17-03ac4a8"
+        },
+        "0.2.0": {
+          "commit": "387baf68",
+          "platforms": {
+            "arm64-macos": {
+              "artifact": "provedorx-tracking-v0.2.0-arm64-macos",
+              "manifest": "manifest-arm64-macos.json",
+              "sha256": "7181044377e3ba6bb5804f23ff2d670f89173569657e112b6a839313ad8918d2"
+            }
+          },
+          "published_at": "2026-11-18T02:56:27Z",
+          "tag": "tracking/v0.2.0"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-17T13:37:15Z"
+  "updated_at": "2026-11-18T02:56:27Z"
 }
