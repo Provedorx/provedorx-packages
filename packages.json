@@ -369,14 +369,19 @@
               "artifact": "provedorx-tracking-v0.2.1-arm64-linux",
               "manifest": "manifest-arm64-linux.json",
               "sha256": "7751f57af2f62ed5be3ba52ff58d2554395455ddb10931fca260102351aa73cd"
+            },
+            "arm64-macos": {
+              "artifact": "provedorx-tracking-v0.2.1-arm64-macos",
+              "manifest": "manifest-arm64-macos.json",
+              "sha256": "33e77ebe09c1641e421e0ef8118709655ae6e316f8a5afbaf33289ea02229270"
             }
           },
-          "published_at": "2026-11-18T04:53:59Z",
+          "published_at": "2026-11-18T04:54:18Z",
           "tag": "tracking/v0.2.1"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-18T04:53:59Z"
+  "updated_at": "2026-11-18T04:54:18Z"
 }
