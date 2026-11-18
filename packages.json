@@ -348,18 +348,23 @@
         "0.2.0": {
           "commit": "387baf68",
           "platforms": {
+            "arm64-linux": {
+              "artifact": "provedorx-tracking-v0.2.0-arm64-linux",
+              "manifest": "manifest-arm64-linux.json",
+              "sha256": "2a577c6b0a2ed49089cdc2f64326ca98f0394c0f49ca5db374453cb10a857925"
+            },
             "arm64-macos": {
               "artifact": "provedorx-tracking-v0.2.0-arm64-macos",
               "manifest": "manifest-arm64-macos.json",
               "sha256": "7181044377e3ba6bb5804f23ff2d670f89173569657e112b6a839313ad8918d2"
             }
           },
-          "published_at": "2026-11-18T02:56:27Z",
+          "published_at": "2026-11-18T02:56:49Z",
           "tag": "tracking/v0.2.0"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-18T02:56:27Z"
+  "updated_at": "2026-11-18T02:56:49Z"
 }
