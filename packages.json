@@ -276,7 +276,7 @@
       }
     },
     "tracking": {
-      "latest": "0.2.1",
+      "latest": "0.3.0",
       "versions": {
         "0.1.0": {
           "commit": "03ac4a8",
@@ -378,10 +378,22 @@
           },
           "published_at": "2026-11-18T04:54:18Z",
           "tag": "tracking/v0.2.1"
+        },
+        "0.3.0": {
+          "commit": "82dedbf3",
+          "platforms": {
+            "arm64-linux": {
+              "artifact": "provedorx-tracking-v0.3.0-arm64-linux",
+              "manifest": "manifest-arm64-linux.json",
+              "sha256": "e994377028f3aeb67223b2bc5360c21685779de650a7deed53950eefb64df5a6"
+            }
+          },
+          "published_at": "2026-11-18T06:22:04Z",
+          "tag": "tracking/v0.3.0"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-18T04:54:18Z"
+  "updated_at": "2026-11-18T06:22:04Z"
 }
