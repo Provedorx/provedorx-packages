@@ -132,6 +132,40 @@
         "0.2.1": {
           "commit": "987e901a",
           "platforms": {
+            "amd64-linux": {
+              "artifact": "provedorx-agents-v0.2.1-amd64-linux",
+              "manifest": "manifest-agents-amd64-linux.json",
+              "manifest_data": {
+                "assets": [
+                  {
+                    "name": "provedorx-agents-v0.2.1-amd64-linux",
+                    "platform": "amd64-linux",
+                    "sha256": "7703fa3db842fa8b5408b6997ef0726d12c37d85f626c9293ba2aed739e648ab"
+                  }
+                ],
+                "build_time": "2026-11-23T04:49:41Z",
+                "capabilities": [
+                  "panel.agents",
+                  "agents.chat",
+                  "agents.admin",
+                  "agents.support",
+                  "bot.agent"
+                ],
+                "commit": "987e901a",
+                "depends_on": [
+                  "gateway",
+                  "clients",
+                  "contracts"
+                ],
+                "min_gateway_version": "0.2.6",
+                "published_at": "2026-11-23T04:49:41Z",
+                "schema_version": "1",
+                "service": "agents",
+                "tag": "agents/v0.2.1",
+                "version": "0.2.1"
+              },
+              "sha256": "7703fa3db842fa8b5408b6997ef0726d12c37d85f626c9293ba2aed739e648ab"
+            },
             "arm64-linux": {
               "artifact": "provedorx-agents-v0.2.1-arm64-linux",
               "manifest": "manifest-agents-arm64-linux.json",
@@ -694,5 +728,5 @@
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-23T04:49:24Z"
+  "updated_at": "2026-11-23T04:49:41Z"
 }
