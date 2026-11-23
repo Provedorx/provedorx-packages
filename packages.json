@@ -21,7 +21,7 @@
           "tag": "release-2026.11.15-614e62d"
         },
         "0.2.0": {
-          "commit": "0b650b6",
+          "commit": "d82364f",
           "platforms": {
             "amd64-linux": {
               "artifact": "provedorx-agents-v0.2.0-amd64-linux",
@@ -34,7 +34,7 @@
                     "sha256": "a25d3930a272a9c23791ac5f982f8af83bea23c906bc6d09b1121e10a87b3ee2"
                   }
                 ],
-                "build_time": "2026-11-20T18:04:51Z",
+                "build_time": "2026-11-23T02:00:22Z",
                 "capabilities": [
                   "panel.agents",
                   "agents.chat",
@@ -42,17 +42,17 @@
                   "agents.support",
                   "bot.agent"
                 ],
-                "commit": "0b650b6c",
+                "commit": "d82364fc",
                 "depends_on": [
                   "gateway",
                   "clients",
                   "contracts"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-20T18:04:51Z",
+                "published_at": "2026-11-23T02:00:22Z",
                 "schema_version": "1",
                 "service": "agents",
-                "tag": "release-2026.11.20-0b650b6",
+                "tag": "release-2026.11.23-d82364f",
                 "version": "0.2.0"
               },
               "sha256": "a25d3930a272a9c23791ac5f982f8af83bea23c906bc6d09b1121e10a87b3ee2"
@@ -65,10 +65,10 @@
                   {
                     "name": "provedorx-agents-v0.2.0-arm64-linux",
                     "platform": "arm64-linux",
-                    "sha256": "9be2904828ce4195a2513cfdf751e01f4d72c61ecd5bb7f9151b2d3f9492c294"
+                    "sha256": "36089d81978326cb128815cf07868961c4c4e1f8781146d77f55490fb5babdc0"
                   }
                 ],
-                "build_time": "2026-11-17T13:05:54Z",
+                "build_time": "2026-11-23T02:00:23Z",
                 "capabilities": [
                   "panel.agents",
                   "agents.chat",
@@ -76,20 +76,20 @@
                   "agents.support",
                   "bot.agent"
                 ],
-                "commit": "03ac4a88",
+                "commit": "d82364fc",
                 "depends_on": [
                   "gateway",
                   "clients",
                   "contracts"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-17T13:05:54Z",
+                "published_at": "2026-11-23T02:00:23Z",
                 "schema_version": "1",
                 "service": "agents",
-                "tag": "release-2026.11.17-03ac4a8",
+                "tag": "release-2026.11.23-d82364f",
                 "version": "0.2.0"
               },
-              "sha256": "9be2904828ce4195a2513cfdf751e01f4d72c61ecd5bb7f9151b2d3f9492c294"
+              "sha256": "36089d81978326cb128815cf07868961c4c4e1f8781146d77f55490fb5babdc0"
             },
             "arm64-macos": {
               "artifact": "provedorx-agents-v0.2.0-arm64-macos",
@@ -126,8 +126,8 @@
               "sha256": "3440b98b165c1b4ae656da200c323b392599a9e3ecab94b9c2e35c38fc7fbe09"
             }
           },
-          "published_at": "2026-11-20T18:04:52Z",
-          "tag": "release-2026.11.20-0b650b6"
+          "published_at": "2026-11-23T02:00:25Z",
+          "tag": "release-2026.11.23-d82364f"
         }
       }
     },
@@ -152,7 +152,7 @@
           "tag": "clients/v0.5.0"
         },
         "0.6.0": {
-          "commit": "0b650b6",
+          "commit": "d82364f",
           "platforms": {
             "amd64-linux": {
               "artifact": "provedorx-clients-v0.6.0-amd64-linux",
@@ -165,21 +165,21 @@
                     "sha256": "22b0d5aeb1da59f69b087e576425341f3e2c16bcc393abdf1ee739c15af7e449"
                   }
                 ],
-                "build_time": "2026-11-20T18:04:50Z",
+                "build_time": "2026-11-23T02:00:22Z",
                 "capabilities": [
                   "panel.clients",
                   "clients.read",
                   "clients.write"
                 ],
-                "commit": "0b650b6c",
+                "commit": "d82364fc",
                 "depends_on": [
                   "gateway"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-20T18:04:50Z",
+                "published_at": "2026-11-23T02:00:22Z",
                 "schema_version": "1",
                 "service": "clients",
-                "tag": "release-2026.11.20-0b650b6",
+                "tag": "release-2026.11.23-d82364f",
                 "version": "0.6.0"
               },
               "sha256": "22b0d5aeb1da59f69b087e576425341f3e2c16bcc393abdf1ee739c15af7e449"
@@ -192,27 +192,27 @@
                   {
                     "name": "provedorx-clients-v0.6.0-arm64-linux",
                     "platform": "arm64-linux",
-                    "sha256": "6e55ed3c2e19b2d1727f285f5f5bc3132383c38950f27d8c6e8ae72512709e01"
+                    "sha256": "f658a08d794c7f81ce8130a9e378517894e7d12a1bbd516adf58ec9334bedf82"
                   }
                 ],
-                "build_time": "2026-11-17T13:05:54Z",
+                "build_time": "2026-11-23T02:00:23Z",
                 "capabilities": [
                   "panel.clients",
                   "clients.read",
                   "clients.write"
                 ],
-                "commit": "03ac4a88",
+                "commit": "d82364fc",
                 "depends_on": [
                   "gateway"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-17T13:05:54Z",
+                "published_at": "2026-11-23T02:00:23Z",
                 "schema_version": "1",
                 "service": "clients",
-                "tag": "release-2026.11.17-03ac4a8",
+                "tag": "release-2026.11.23-d82364f",
                 "version": "0.6.0"
               },
-              "sha256": "6e55ed3c2e19b2d1727f285f5f5bc3132383c38950f27d8c6e8ae72512709e01"
+              "sha256": "f658a08d794c7f81ce8130a9e378517894e7d12a1bbd516adf58ec9334bedf82"
             },
             "arm64-macos": {
               "artifact": "provedorx-clients-v0.6.0-arm64-macos",
@@ -245,8 +245,8 @@
               "sha256": "06e923b1f3d052cdf177ed106e720c4e615b6b8aea3c63330b55f26e88211937"
             }
           },
-          "published_at": "2026-11-20T18:04:52Z",
-          "tag": "release-2026.11.20-0b650b6"
+          "published_at": "2026-11-23T02:00:25Z",
+          "tag": "release-2026.11.23-d82364f"
         }
       }
     },
@@ -271,7 +271,7 @@
           "tag": "contracts/v0.1.0"
         },
         "0.3.0": {
-          "commit": "0b650b6",
+          "commit": "d82364f",
           "platforms": {
             "amd64-linux": {
               "artifact": "provedorx-contracts-v0.3.0-amd64-linux",
@@ -284,21 +284,21 @@
                     "sha256": "8da5bf0335371443fc922f6595b2347bbc55f948cf4d703e20b7854dc8e024de"
                   }
                 ],
-                "build_time": "2026-11-20T18:04:51Z",
+                "build_time": "2026-11-23T02:00:22Z",
                 "capabilities": [
                   "panel.contracts",
                   "contracts.read"
                 ],
-                "commit": "0b650b6c",
+                "commit": "d82364fc",
                 "depends_on": [
                   "gateway",
                   "clients"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-20T18:04:51Z",
+                "published_at": "2026-11-23T02:00:22Z",
                 "schema_version": "1",
                 "service": "contracts",
-                "tag": "release-2026.11.20-0b650b6",
+                "tag": "release-2026.11.23-d82364f",
                 "version": "0.3.0"
               },
               "sha256": "8da5bf0335371443fc922f6595b2347bbc55f948cf4d703e20b7854dc8e024de"
@@ -311,27 +311,27 @@
                   {
                     "name": "provedorx-contracts-v0.3.0-arm64-linux",
                     "platform": "arm64-linux",
-                    "sha256": "1367453455d39e8fa9ada93101c95e117a0b6751b2fc5afdce980b356fffb285"
+                    "sha256": "61769e42ffecb65d885c2c0916682db29ee44f9d07b1be12739411c2955d865f"
                   }
                 ],
-                "build_time": "2026-11-17T13:05:54Z",
+                "build_time": "2026-11-23T02:00:23Z",
                 "capabilities": [
                   "panel.contracts",
                   "contracts.read"
                 ],
-                "commit": "03ac4a88",
+                "commit": "d82364fc",
                 "depends_on": [
                   "gateway",
                   "clients"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-17T13:05:54Z",
+                "published_at": "2026-11-23T02:00:23Z",
                 "schema_version": "1",
                 "service": "contracts",
-                "tag": "release-2026.11.17-03ac4a8",
+                "tag": "release-2026.11.23-d82364f",
                 "version": "0.3.0"
               },
-              "sha256": "1367453455d39e8fa9ada93101c95e117a0b6751b2fc5afdce980b356fffb285"
+              "sha256": "61769e42ffecb65d885c2c0916682db29ee44f9d07b1be12739411c2955d865f"
             },
             "arm64-macos": {
               "artifact": "provedorx-contracts-v0.3.0-arm64-macos",
@@ -364,8 +364,8 @@
               "sha256": "a40def896c07b3e9fa723066d8e8b8a8f49a227357cdf35a137677c0ec54c0e0"
             }
           },
-          "published_at": "2026-11-20T18:04:52Z",
-          "tag": "release-2026.11.20-0b650b6"
+          "published_at": "2026-11-23T02:00:25Z",
+          "tag": "release-2026.11.23-d82364f"
         }
       }
     },
@@ -373,7 +373,7 @@
       "latest": "0.1.0",
       "versions": {
         "0.1.0": {
-          "commit": "0b650b6",
+          "commit": "d82364f",
           "platforms": {
             "amd64-linux": {
               "artifact": "provedorx-kanban-v0.1.0-amd64-linux",
@@ -383,30 +383,59 @@
                   {
                     "name": "provedorx-kanban-v0.1.0-amd64-linux",
                     "platform": "amd64-linux",
-                    "sha256": "a6bad98e63462b27523736ca15f2a7b91b53568fe678dfd42a5d17d51a80cd03"
+                    "sha256": "9b050d3436f54fa8045fcfdc535882def3eaaf217633e0f3b6c6cfb3b6dc6236"
                   }
                 ],
-                "build_time": "2026-11-20T18:04:51Z",
+                "build_time": "2026-11-23T02:00:23Z",
                 "capabilities": [
                   "panel.kanban",
                   "kanban.read"
                 ],
-                "commit": "0b650b6c",
+                "commit": "d82364fc",
                 "depends_on": [
                   "gateway"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-20T18:04:51Z",
+                "published_at": "2026-11-23T02:00:23Z",
                 "schema_version": "1",
                 "service": "kanban",
-                "tag": "release-2026.11.20-0b650b6",
+                "tag": "release-2026.11.23-d82364f",
                 "version": "0.1.0"
               },
-              "sha256": "a6bad98e63462b27523736ca15f2a7b91b53568fe678dfd42a5d17d51a80cd03"
+              "sha256": "9b050d3436f54fa8045fcfdc535882def3eaaf217633e0f3b6c6cfb3b6dc6236"
+            },
+            "arm64-linux": {
+              "artifact": "provedorx-kanban-v0.1.0-arm64-linux",
+              "manifest": "manifest-kanban-arm64-linux.json",
+              "manifest_data": {
+                "assets": [
+                  {
+                    "name": "provedorx-kanban-v0.1.0-arm64-linux",
+                    "platform": "arm64-linux",
+                    "sha256": "cfc2c62046f9577ba760ad186fa8f4ac5ff5ec2a4efbf96a268b2352a3478ac7"
+                  }
+                ],
+                "build_time": "2026-11-23T02:00:23Z",
+                "capabilities": [
+                  "panel.kanban",
+                  "kanban.read"
+                ],
+                "commit": "d82364fc",
+                "depends_on": [
+                  "gateway"
+                ],
+                "min_gateway_version": "0.2.6",
+                "published_at": "2026-11-23T02:00:23Z",
+                "schema_version": "1",
+                "service": "kanban",
+                "tag": "release-2026.11.23-d82364f",
+                "version": "0.1.0"
+              },
+              "sha256": "cfc2c62046f9577ba760ad186fa8f4ac5ff5ec2a4efbf96a268b2352a3478ac7"
             }
           },
-          "published_at": "2026-11-20T18:04:52Z",
-          "tag": "release-2026.11.20-0b650b6"
+          "published_at": "2026-11-23T02:00:25Z",
+          "tag": "release-2026.11.23-d82364f"
         }
       }
     },
@@ -549,7 +578,7 @@
           "tag": "tracking/v0.3.1"
         },
         "0.3.2": {
-          "commit": "0b650b6",
+          "commit": "d82364f",
           "platforms": {
             "amd64-linux": {
               "artifact": "provedorx-tracking-v0.3.2-amd64-linux",
@@ -562,29 +591,54 @@
                     "sha256": "0922bd1e11ef96d7e579ccbe7f622543ae4f4e6a28e3327777a42105284a3698"
                   }
                 ],
-                "build_time": "2026-11-20T18:04:51Z",
+                "build_time": "2026-11-23T02:00:23Z",
                 "capabilities": [
                   "panel.tracking",
                   "tracking.read",
                   "tracking.write"
                 ],
-                "commit": "0b650b6c",
+                "commit": "d82364fc",
                 "depends_on": [
                   "gateway"
                 ],
                 "min_gateway_version": "0.2.6",
-                "published_at": "2026-11-20T18:04:51Z",
+                "published_at": "2026-11-23T02:00:23Z",
                 "schema_version": "1",
                 "service": "tracking",
-                "tag": "release-2026.11.20-0b650b6",
+                "tag": "release-2026.11.23-d82364f",
                 "version": "0.3.2"
               },
               "sha256": "0922bd1e11ef96d7e579ccbe7f622543ae4f4e6a28e3327777a42105284a3698"
             },
             "arm64-linux": {
               "artifact": "provedorx-tracking-v0.3.2-arm64-linux",
-              "manifest": "manifest-arm64-linux.json",
-              "sha256": "31bd319787f364a0778657a974a9690a66f9f1c1cfd88e7d10e324e4dbb1d474"
+              "manifest": "manifest-tracking-arm64-linux.json",
+              "manifest_data": {
+                "assets": [
+                  {
+                    "name": "provedorx-tracking-v0.3.2-arm64-linux",
+                    "platform": "arm64-linux",
+                    "sha256": "64e484b1829cf5d7b60108dd0051f91664fe4d6ebd8f1ae8c858fe0071aceb44"
+                  }
+                ],
+                "build_time": "2026-11-23T02:00:23Z",
+                "capabilities": [
+                  "panel.tracking",
+                  "tracking.read",
+                  "tracking.write"
+                ],
+                "commit": "d82364fc",
+                "depends_on": [
+                  "gateway"
+                ],
+                "min_gateway_version": "0.2.6",
+                "published_at": "2026-11-23T02:00:23Z",
+                "schema_version": "1",
+                "service": "tracking",
+                "tag": "release-2026.11.23-d82364f",
+                "version": "0.3.2"
+              },
+              "sha256": "64e484b1829cf5d7b60108dd0051f91664fe4d6ebd8f1ae8c858fe0071aceb44"
             },
             "arm64-macos": {
               "artifact": "provedorx-tracking-v0.3.2-arm64-macos",
@@ -592,12 +646,12 @@
               "sha256": "f06285f5080d9741266b7402169255120649a2c191f9663f3c6105412228fe8b"
             }
           },
-          "published_at": "2026-11-20T18:04:52Z",
-          "tag": "release-2026.11.20-0b650b6"
+          "published_at": "2026-11-23T02:00:25Z",
+          "tag": "release-2026.11.23-d82364f"
         }
       }
     }
   },
   "schema_version": 1,
-  "updated_at": "2026-11-20T18:04:52Z"
+  "updated_at": "2026-11-23T02:00:25Z"
 }
